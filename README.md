@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning redux for state management.
 
-- 📫 Here's my portfolio!
-<br />
-https://colinschmidt.io
+- 📫 Here's my portfolio! --> https://colinschmidt.io
+
 
 
