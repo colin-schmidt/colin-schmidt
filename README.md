@@ -1,22 +1,11 @@
 - 👋 Hi, I’m @colin-schmidt.  I'm a web developer from Madison, WI.  I like gaming, riding my bike, and reading.
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in responsive web apps, cool looking UIs, react development, and leveling up my dev work.
+
+- 🌱 I’m currently learning redux for state management.
+
+- 📫 Here's my portfolio!
 <br />
-    Responsive web apps
-    <br />
-    Cool looking UIs
-    <br />
-    React development
-    <br />
-    Leveling up my dev work
-    <br />
-
-- 🌱 I’m currently learning ...
-- <br />
-Redux for state management
-
-- 📫 How to reach me ...
-
 https://colinschmidt.io
 
 
